@@ -2,7 +2,7 @@
 Library  Selenium2Screenshots
 Library  String
 Library  DateTime
-Library  dzo_service.py
+Library  spust_service.py
 
 *** Variables ***
 ${locator.tenderId}                  xpath=//td[./text()='TenderID']/following-sibling::td[1]
