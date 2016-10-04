@@ -1,6 +1,6 @@
 from setuptools import setup
 
-broker_name = 'dzo'
+broker_name = 'spust'
 pkg_name = 'robot_tests.broker.{}'.format(broker_name)
 
 setup(name=pkg_name,
